@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "Daily Activity"
+title: 'Daily Activity'
 date: 2021-09-25 17:13:29 +0700
 categories: dsm/sprint
 ---
 
 # Daily Activity
 
-| DATE       | ACTIVITY                                                                                                                                                                                                                             | BLOCKER                                    |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------ |
-| 30/08/2021 | Briefing magang                                                                                                                                                                                                                      | -                                          |
-| 31/08/2021 | belajar install flutter dan dart liat tutorial, sambil belajar github                                                                                                                                                                       | instalasi masih belum kebaca di OS windows |
-| 01/09/2021 | Kemarin : lanjut git, buat programming language kondisi dan operatorlanjut perulangan challenge github page udahHari ini : belajar array dan collectionkendala masih belajar menghafal syntax gitwpm : 50Hackerrank : baru buat akun | -                                          |
-| 02/09/2021 | Kemarin : ngerjain challenge sampai challenge 3 , belajar golang basickendala : nyari algoritma sudah bisa resolved                                                                                                                  | -                                          |
-| 03/09/2021 | Kemarin : nyelesain challenge day 4,belajar golangHari ini : nyelesain golang, masuk framework, nyelesain challenge                                                                                                                  | -                                          |
-| 06/09/2021 | Kemarin : nyelesain challenge sampe day 5 , golang basic nya sudah selesai lanjut ke framework, wpm terakhir : 56 belum stabil, hacker rank sudah nyoba 2 soal                                                                       | -                                          |
-| 07/09/2021 | kemarin : belajar REST API Golang , rest API framework testing menggunakan postman                                                                                                                                                   | -                                          |
-| 08/09/2021 | Kemarin : belajar JWTbelum ada gambaran untuk implementasi program                                                                                                                                                                   | -                                          |
-| 09/09/2021 | Kemarin:belajar implementasi golang sampai ke routing ke halaman utama, koneksi ke databaseBelum ada blockerhari ini lanjut implementasi golang                                                                                      | -                                          |
-| 13/09/2021 | Kemarin : lanjutin belajar nerapin golang ke web, nyoba crud ada blockerbingung apakah itu kepake atau tidak                                                                                                                         | -                                          |
+| DATE       | ACTIVITY                                                                                                                          | BLOCKER                                                             |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 30/08/2021 | Briefing magang                                                                                                                   | -                                                                   |
+| 31/08/2021 | belajar install flutter dan dart liat tutorial, sambil belajar github                                                             | emulator android tidak dapat terbaca di viscode dan beeberapa error |
+| 01/09/2021 | Belajar tentang dart dan juga awalan untuk flutter. Melakukan percobaan running flutter dan wpm test                              | Masih membenahi masalah yang ada di awal                            |
+| 02/09/2021 | Melanjutkan pembelajaran tentang dart oop dan mengerjakan challange. Melakukan wpm test dan juga hackerrank                       | Masalah null safety yang membuat agak bingung                       |
+| 03/09/2021 | Menyelesaikan challange - challange yang ada dan juga melanjutkan pembelajaran dart oop. Melakukan kembali wpm test beberapa kali | Masalah null safety                                                 |
+| 06/09/2021 | Menuntaskan challange - challange dan masuk ke dalam pembelajara flutter. Melakukan beberapa wpm test dan juga hackerrank         | -                                                                   |
+| 07/09/2021 | Belajar tentang CRUD API dan juga sempet belajar sedikit mengenai firebase                                                        | -                                                                   |
+| 08/09/2021 | Menyelesaikan challage - challange week 2 dan masih berkutat di sekitar CRUD API                                                  | -                                                                   |
+| 09/09/2021 | Mengerjakan challange - challange week 2 dan belajar tentang testing unit mocking object dan lain lain                            | -                                                                   |
+| 13/09/2021 | Membuat flutter web dan belajar mengenai pembuatan UI                                                                             | -                                                                   |
